@@ -1,5 +1,5 @@
 package com.telusko.MyApp;
-
+//comment
 import org.springframework.stereotype.Component;
 
 @Component     //component annotation job is to create object
